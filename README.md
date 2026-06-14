@@ -75,13 +75,6 @@ java VolunteerManagementUI
 - **File I/O:** BufferedReader, BufferedWriter
 - **Concepts:** OOP (Classes, Objects, Encapsulation)
 
-## Notes
-- Simple and easy-to-understand code
-- No exception handling (as per requirements)
-- No advanced data structures used
-- Basic Swing GUI - beginner-friendly
-- Perfect for learning Java fundamentals
-
 ## Future Enhancements
 - Add Delete volunteer feature
 - Add Update volunteer details
